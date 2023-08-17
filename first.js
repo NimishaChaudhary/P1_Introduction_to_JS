@@ -1,1 +1,1 @@
-console.log("Hello world")
+console.log("geoinformatics student")
